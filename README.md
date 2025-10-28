@@ -48,6 +48,6 @@ Once logged in, the admin can:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gandhamprakashtech/AttendanceTracker.git
+   git clone https://github.com/MANICHAND163/attendance.git
    cd AttendanceTracker
 <!--test commit for new git username setup-->
